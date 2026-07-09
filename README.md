@@ -53,6 +53,9 @@ cd RIR-Protfolio
 ```bash
 Open index.html in your browser
 ```
+## Screenshot
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/84ec5230-62ee-4841-beec-5cc8783d53f2" />
+
 
 ## Screenshot
 
